@@ -63,10 +63,15 @@ Database:
 ## ⚙️ Installation
 
 ### Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/NimeshaMadurangi/Fitness-Social-Networking-Platform.git
 
 ### Navigate into the project folder
-cd your-repo-name
+client
+  * cd gym_client_app
+
+server
+  * cd gym_server
+
 
 ### Install dependencies
 npm install
