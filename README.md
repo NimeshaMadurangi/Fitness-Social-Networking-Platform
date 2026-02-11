@@ -30,19 +30,19 @@ This platform functions similarly to a social media application but is specifica
 
 Frontend:
 
-  React js
+  - React js
 
-  CSS
+  - CSS
 
-  Bootstrap 5
+  - Bootstrap 5
 
 Backend:
 
-  Java
+  - Java
 
-  Spring Boot
+  - Spring Boot
 
-  REST API
+  - REST API
 
 Database:
 
@@ -51,5 +51,45 @@ Database:
 
 ## 🏗️ System Architecture
 
+* Frontend communicates with backend via REST APIs
+
+* Secure authentication and authorization implemented using OAuth 2.0
+
+* Media uploads handled using Local Storage
+
+* Modular and component-based frontend architecture
+
+
+## ⚙️ Installation
+
+### Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+### Navigate into the project folder
+cd your-repo-name
+
+### Install dependencies
+npm install
+
+### Run the development server
+client - npm run dev
+server - springboot run
+
+
+## 🎯 Future Improvements
+
+Real-time notifications
+
+Group communities
+
+Fitness progress tracking
+
+Mobile application version
+
+
+## 👩‍💻 Author
+
+Nimesha Madurangi
+Software Developer
 
 
