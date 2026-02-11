@@ -83,18 +83,19 @@ server - springboot run
 
 ## 🎯 Future Improvements
 
-Real-time notifications
+* Real-time notifications
 
-Group communities
+* Group communities
 
-Fitness progress tracking
+* Fitness progress tracking
 
-Mobile application version
+* Mobile application version
 
 
 ## 👩‍💻 Author
 
 Nimesha Madurangi
+
 Software Developer
 
 
