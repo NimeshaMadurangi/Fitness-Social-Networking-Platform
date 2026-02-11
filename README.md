@@ -6,6 +6,7 @@ The Fitness Social Networking Platform is a web-based application designed for f
 
 This platform functions similarly to a social media application but is specifically focused on the fitness community.
 
+
 ## 🚀 Features
 
 🔐 User Authentication & Authorization
@@ -24,5 +25,31 @@ This platform functions similarly to a social media application but is specifica
 
 📱 Responsive Design
 
+
 ## 🛠️ Tech Stack
+
+Frontend:
+
+  React js
+
+  CSS
+
+  Bootstrap 5
+
+Backend:
+
+  Java
+
+  Spring Boot
+
+  REST API
+
+Database:
+
+  MySQL
+
+
+## 🏗️ System Architecture
+
+
 
