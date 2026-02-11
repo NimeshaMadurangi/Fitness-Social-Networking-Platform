@@ -67,10 +67,10 @@ git clone https://github.com/NimeshaMadurangi/Fitness-Social-Networking-Platform
 
 ### Navigate into the project folder
 client
-  * cd gym_client_app
+  * cd gym-client-app
 
 server
-  * cd gym_server
+  * cd gym_api
 
 
 ### Install dependencies
